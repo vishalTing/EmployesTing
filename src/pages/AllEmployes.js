@@ -27,9 +27,9 @@ const AllEmployes = () => {
     request(
       "https://api-ap-south-1.graphcms.com/v2/cl4i5dmfc3clo01xogrk14ny9/master",
       query
-    ).then((data) => {{setSingle(data)}
+    ).then((data) => {setSingle(data)
     });
-  }, []);
+  }, [path]);
 
   // console.log(single);
   return (
