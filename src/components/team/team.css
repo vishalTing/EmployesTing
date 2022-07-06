@@ -1,0 +1,19 @@
+.firstdiv{
+    display: inline-block;
+    text-align: center;
+}
+.firstdiv h1{
+    background-color: yellow;
+}
+
+.firstdiv h2{
+    background-color: black;
+    margin-right: 2px;
+    border-radius: 10px;
+    color: yellow;
+    padding: 2px;
+}
+
+.flex{
+    display: flex;
+}
