@@ -5,7 +5,6 @@ import AllEmployes from './pages/AllEmployes';
 
 
 function App() {
-
   return (
   <>
 <h1>TING TEAM</h1>
